@@ -14,7 +14,7 @@
     
     <dependencies>
 	<dependency>
-            <groupId>io.github.MHoekestp</groupId>
+            <groupId>io.github.bastide</groupId>
             <artifactId>BowlingMavenCorrection</artifactId>
             <version>1.0</version>
         </dependency>
